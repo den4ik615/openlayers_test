@@ -36,16 +36,6 @@ const selectStyle = new Style({
   }),
 });
 
-// const featureOverlay = new VectorLayer({
-//   source: new VectorSource(),
-//   map: map,
-//   style: new Style({
-//     stroke: new Stroke({
-//       color: 'rgba(255, 255, 255, 0.7)',
-//       width: 2,
-//     }),
-//   }),
-// });
 let elm : Feature;
 elm=new Feature({
 });
